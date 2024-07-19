@@ -2,8 +2,6 @@ import numpy as np
 import tensorflow as tf
 import network as nw
 from tensorflow.keras import layers
-import matplotlib.pyplot as plt
-import math
 from tensorflow.keras.models import load_model
 
 num_ue, num_bs, num_s = 3, 2, 2
