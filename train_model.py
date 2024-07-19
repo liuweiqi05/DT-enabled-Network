@@ -4,6 +4,8 @@ from icecream import ic
 import env_1_2 as env
 import noise as ns
 from buffer import *
+import matplotlib.pyplot as plt
+import math
 
 save_path = 'E:/Program Files/Project/Multi/saved_model/'
 
